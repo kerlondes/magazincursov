@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">E-Commerce</string>
+    <string name="sales_icon">Sales</string>
+    <string name="contacts_text">Контакты</string>
+    <string name="about_text">Про нас</string>
+    <string name="main_scene_text">Главная</string>
+    <string name="logo_of_app_1">Courses</string>
+    <string name="logo_of_app_2">App</string>
+    <string name="categoryTitleText">Игры</string>
+    <string name="course_start_date">Старт обучения:</string>
+    <string name="course_start_level">Уровень:</string>
+    <string name="course_desc">Программа обучения Джава – рассчитанана новичков в данной сфере. За программу вы изучите построение графических приложений под ПК, разработку веб сайтов на основе Java Spring Boot, изучите построение полноценных Андроид приложений и отлично изучите сам язык Джава!</string>
+    <string name="contact_text">Приложение созданное ютубером, для создание видео про обучение основам програмирования в AndroidStudio. Изначально сайт был создан для продвижения канала и сайта IT-proger(Вроде так хз, вообще ща бошка лопнет от этого словосочетания), судя по отзывам в интернете, не особо то он разбирается, хотя для таких как я новичков подойдёт, но не мне судить, тому кто вообще нифига не знает в этом вашем ПроГраМмировании...</string>
+    <string name="contact_gan">Контакты которые возможно вам пригодятся</string>
+    <string name="contact_con">Контакты создателя данной програмы(интерактивны):</string>
+    <string name="youtube">https://www.youtube.com/@gosha_dudar/videos</string>
+    <string name="insta">http://instagram.com/gosha_dudar (Вроде сдохла)</string>
+    <string name="vk">https://vk.com/codi999</string>
+</resources>
