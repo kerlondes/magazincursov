@@ -25,8 +25,9 @@ public class OrderPage extends AppCompatActivity {
 
         List<String> coursesTitle = new ArrayList<>();
         for(Course c : MainActivity.fullCoursesList){
-            if(Order.items_id.contains(c.getId()));
-            coursesTitle.add(c.getTitle());
+            if(Order.items_id.contains(c.getId())) {
+                coursesTitle.add(c.getTitle());
+            }
         }
 
         orders_list.setAdapter(new ArrayAdapter<>(this, android.R.layout.simple_list_item_1, coursesTitle));

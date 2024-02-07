@@ -34,7 +34,7 @@ public class Category_adapter extends RecyclerView.Adapter<Category_adapter.Cate
     }
 
     @Override
-    public void onBindViewHolder(@NonNull Category_adapter.CategoryViewHolder holder, int position) {
+    public void onBindViewHolder(@NonNull Category_adapter.CategoryViewHolder holder, @SuppressLint("RecyclerView") int position) {
         holder.categoryTitle.setText(categories.get(position).getTitle());
 
         holder.itemView.setOnClickListener(new View.OnClickListener() {

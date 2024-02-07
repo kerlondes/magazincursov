@@ -110,6 +110,7 @@
         android:layout_marginStart="40dp"
         android:layout_marginTop="15dp"
         android:contentDescription="@string/sales_icon"
+        android:onClick="showAllCourse"
         app:layout_constraintStart_toEndOf="@+id/constraintLayout"
         app:layout_constraintTop_toBottomOf="@+id/logo_app_1"
         app:srcCompat="@drawable/filter" />
